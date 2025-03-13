@@ -1,0 +1,74 @@
+body
+{
+    padding: 0%;
+    margin: 0%;
+    background-color: 
+    #f0f2f5;
+}
+h1{
+    margin-left: 43%;
+    color: #1877f2;
+    font-size: 3rem;
+    margin-bottom: 1%;
+}
+h2
+{
+    margin-top: 6%;
+    margin-bottom: 6%;
+    font-size: 1.3rem;
+}
+input{
+    margin-left: 4%;
+    display: block;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    padding: 15px 149px 15px 20px;
+    font-size: 1rem;
+    border: 1px solid rgb(172, 172, 172);
+}
+button
+{
+    margin-left: 4%;
+    display: block;
+    margin-bottom: 4%;
+    border-radius: 5px;
+    padding: 10px 152px 10px 152px;
+    font-size: 1.3rem;
+    background-color:#1877f2;
+    border: 1px solid #1877f2;
+    color: white;
+}
+a{
+
+  padding-right:0.5rem;
+  color: blue;
+  text-decoration: none;
+}
+#card1
+{
+    background-color: 
+    #f0f2f5;
+    margin-top: 2%;
+}
+#card1 #d1
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 64vh;
+    background-color: #ffffff#fff;
+}
+#d1 form{
+    width: 26%;
+    background-color: white;
+    border-radius: 10px;
+    border: 0.5px solid rgb(218, 218, 218);
+    box-shadow: 2px 1px 1px 2px rgb(172, 172, 172);
+}
+#card2 
+{
+
+}
+#card2 a{
+    text-decoration: none;
+}
